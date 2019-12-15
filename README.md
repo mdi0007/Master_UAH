@@ -1,5 +1,5 @@
 # masteruah
-Repositorio del Master en Data Science
+Repositorio del Máster en Data Science
 
 
 | NOMBRE | GITHUB |
